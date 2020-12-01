@@ -11,7 +11,7 @@ I had a bowl of Honey & Nut Shredded Wheat with milk, and a glass of water for b
 
 ## If GitHub was a Valve product :computer:
 
-<img src="https://octodex.github.com/images/chellocat.jpg" alt="Chellocat" width=100>
+<img src="https://octodex.github.com/images/chellocat.jpg" alt="Chellocat" width=300>
 
 
 ## My favourite games :video_game:
